@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksocialdata=self.webpackChunksocialdata||[]).push([[8147],{9098:function(a){a.exports=JSON.parse('{"label":"hello","permalink":"/socialdata/blog/tags/hello","allTagsPath":"/socialdata/blog/tags","count":2}')}}]);

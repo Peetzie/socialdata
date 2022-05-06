@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksocialdata=self.webpackChunksocialdata||[]).push([[8443],{1307:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/socialdata/blog/tags/docusaurus","allTagsPath":"/socialdata/blog/tags","count":4}')}}]);
