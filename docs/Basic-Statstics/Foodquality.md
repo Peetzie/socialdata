@@ -14,7 +14,7 @@ The is seen on the figure below, where a majority of the yellow (index level 9 -
 
 
 [ ![](stat5.png) ](stat5.png)
-:::caution
+:::note
 
 There a few *white* dots on the maps, these are counties which have no data and thus are not being able to be showed on the heatmap
 
