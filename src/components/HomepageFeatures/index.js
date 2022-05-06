@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Why and where?',
+    Svg: require('@site/static/img/imgs/1200px-USA_Flag_Map.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The aim of this project is to explore how our options of eating and in our surroundings might affect our health. 
+        Are people in areas with a higher density of fastfood restaurents more prone to shortcomings in health? 
+        Likewise how does income affect our choices and health?
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Green challenge',
+    Svg: require('@site/static/img/imgs/goal3.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      This project adheres primarily to the 3rd sustainable development goal provided by the United Nations. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Why food and health? ',
+    Svg: require('@site/static/img/imgs/food.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       The bottom of Marslows hierarychy of needs is food. It is a vitle piece of life. Yet sometimes we as humans makes decision that does not always seem beneficial sadad  
       </>
     ),
   },
