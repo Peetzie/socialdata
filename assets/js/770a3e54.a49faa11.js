@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksocialdata=self.webpackChunksocialdata||[]).push([[406],{6914:function(a){a.exports=JSON.parse('{"permalink":"/socialdata/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
