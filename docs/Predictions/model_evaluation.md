@@ -8,7 +8,7 @@ Since the model needs some training and test data, we decided to split our test 
 
 Below is seen the three states, and the color represents if the predicted label is the same as the true label.
 
-<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/dashboard.html"
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/Predict_states.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="105%"
 	height="1400"
