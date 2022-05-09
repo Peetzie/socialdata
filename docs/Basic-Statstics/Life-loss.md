@@ -31,11 +31,11 @@ Premature death is a measure of years of potential life lost due to a death occo
 * Heart disease  
 * Suicide
 
-Important to mention is the fact that *obesity* and *smoking* mentioned on **[Americas Health Rankings](https://www.americashealthrankings.org/explore/annual/measure/YPLL/state/ALL)** as some of the large contributers to premature deaths. 
+Important to mention is the fact that *obesity* and *smoking* mentioned on **[[9]](https://www.americashealthrankings.org/explore/annual/measure/YPLL/state/ALL)** as some of the large contributers to premature deaths. 
 
 
 As for both North - and South Dakota, Montana and Alaska these states have in common that they are all top states of where Native American Indians have household. 
-According to **[This article](https://www.ajpmonline.org/article/S0749-3797(13)00082-2/pdf)** this part of the population is more prone to Type 2 - Diabetes and obesity.
+According to **[[10]](https://www.ajpmonline.org/article/S0749-3797(13)00082-2/pdf)** this part of the population is more prone to Type 2 - Diabetes and obesity.
 
 
 This fits very well with our data set, where the the rankings are as follows:
