@@ -38,4 +38,19 @@ As for both North - and South Dakota, Montana and Alaska these states have in co
 According to **[This article](https://www.ajpmonline.org/article/S0749-3797(13)00082-2/pdf)** this part of the population is more prone to Type 2 - Diabetes and obesity.
 
 
+This fits very well with our data set, where the the rankings are as follows:
+
+| State 	| Premature deaths 	|
+|---	|---	|
+| South Dakota 	| 10096 	|
+| Montana 	| 13221 	|
+| Minnesota 	| 52125 	|
+| Wyoming 	| 7052 	|
+| North Dakota 	| 7831 	|
+
+
+
+## But why does premature life loss even mater when talking fastfood? 
+Becuase an unhealthy lifestyle for some races can lead to premature faster than normal. This is seen with Native Americans, likewise poverty can lead to a number of unhealthy lifestyle choises. 
+
 
