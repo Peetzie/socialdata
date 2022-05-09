@@ -6,11 +6,14 @@ sidebar_position: 1
 # Restaurant Locations
 
 ### What are the most popular fast-food restaurant chains? 
+
+
+
 [ ![](stat2.png) ](stat2.png)
 
 McDonald's is by far the most popular fast food restaurant chain in the US. 
 
-Eventhough McDonald's top the list above it was not the first fastfood restaurant, the first fast-food chain is not even in top 10. 
+Even though McDonald's top the list above it was not the first fastfood restaurant, the first fast-food chain is not even in top 10. 
 However many of the famous, restaurants opened in the perid of 1940(mcdonalds) to 1965(subway & dominos). 
 The expansion of fastfood restaurants began with a culture change, where as seen with McDoalds' meals no longer require preperation time, shopping, doing the dishes, not even a table as the concept is; *You can eat it with your bare hands*. This leads to a trend of american meals, where over 20% of meals are eaten in cars :blue_car: **[[11]](https://web.colby.edu/st297-global18/2018/10/29/americas-fast-food-obsession/#:~:text=One%20of%20the%20main%20reasons,and%20get%20a%20full%20meal)**.
 
@@ -95,7 +98,7 @@ Looking at the restaurants on the West Coast, it is very clear that is within th
 Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
 
 
-
+A study conducted in 2021 found no direct effects on diet quality and weight status. [[1]](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00713-5) 
 
 
 
