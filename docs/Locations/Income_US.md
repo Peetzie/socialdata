@@ -24,7 +24,7 @@ From the data the 10 counties with the highest mean income is shown below:
 
 Due to missing data, the income variable has been omitted from our prediction model. However to still get a somewhat accurate picture of the income across the US, an interpolated image of the US is plotted. The values we do have is being spread out to other nearby counties with missing data, and is being impacted by all neraby values.
 
-<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/fastfood_locations.html"
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/income.html.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
