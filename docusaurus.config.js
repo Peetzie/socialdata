@@ -93,6 +93,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/Peetzie/socialdata',
               },
+              {
+                label: 'About us',
+                href: 'https://peetzie.github.io/SocialData_InteractiveMaps/About%20us.html',
+              },
             ],
           },
         ],
