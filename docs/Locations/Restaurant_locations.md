@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
+
 # Restaurant Locations
 
 ### What are the most popular fast-food restaurant chains? 
@@ -76,11 +77,11 @@ Looking at the restaurants on the West Coast, it is very clear that is within th
 Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
 
 
-<iframe src="test.html"
+<iframe src="https://peetzie.github.io/test_repot/test.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
-	scrolling="no"
+	scrolling="yes"
 	seamless="seamless"
 	frameborder="0">
 </iframe>
