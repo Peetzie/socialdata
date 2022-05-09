@@ -12,7 +12,22 @@ Likewise it is far eaiser to make cities if you have acess to water compared to 
 The is seen on the figure below, where a majority of the yellow (index level 9 - 10) mostly are located in the top region of the country. 
 
 
-[ ![](stat5.png) ](stat5.png)
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/foodindx.html"
+	sandbox="allow-same-origin allow-scripts"
+	width="100%"
+	height="500"
+	scrolling="yes"
+	seamless="seamless"
+	frameborder="0">
+</iframe>
+
+:::tip
+
+This map is interactive, so you can explore it yourself aswell
+
+:::
+
+
 :::note
 
 There a few *white* dots on the maps, these are counties which have no data and thus are not being able to be showed on the heatmap
