@@ -58,24 +58,6 @@ This means that eating a burger og a sandwhich can account for more than the req
 
 ## Distribution of restaurants
 With the data we created plotting the locations of restaurants. 
-[ ![](fastfood_locations.png) ](fastfood_locations.png)
-
-The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
-* Yellow: Mcdonalds 
-* Orange: Burger king 
-* Red: Taco bell
-* Green: Wendy's 
-* Blue: arby's
-
-A clear pattern emerges from the plot; the majority of fastfood restaurants are on the east-side of the Country. 
-
-
-According to **[[13]](https://worldpopulationreview.com/state-rankings/east-coast-states)** the East Coast states alone account for about 36% of the United States' total population. 
-Thus it is no surprice that the vast majority of fastfood restaurants are located for ease of access to the majority of the population. 
-
-Looking at the restaurants on the West Coast, it is very clear that is within the major cities of i.e Washington that the restaurants are distributed. 
-Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
-
 
 <iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/fastfood_locations.html"
 	sandbox="allow-same-origin allow-scripts"
@@ -95,6 +77,25 @@ Remember that you can turn layers of in the interactive figure in the top right 
 :::caution Outliers
 On the plot you will se a few outliers, as some of the restaurants seems to be located in Europe
 :::
+
+The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
+* Yellow: Mcdonalds 
+* Orange: Burger king 
+* Red: Taco bell
+* Green: Wendy's 
+* Blue: arby's
+
+A clear pattern emerges from the plot; the majority of fastfood restaurants are on the east-side of the Country. 
+
+
+According to **[[13]](https://worldpopulationreview.com/state-rankings/east-coast-states)** the East Coast states alone account for about 36% of the United States' total population. 
+Thus it is no surprice that the vast majority of fastfood restaurants are located for ease of access to the majority of the population. 
+
+Looking at the restaurants on the West Coast, it is very clear that is within the major cities of i.e Washington that the restaurants are distributed. 
+Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
+
+
+
 
 
 
