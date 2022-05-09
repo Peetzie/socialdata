@@ -77,7 +77,7 @@ Looking at the restaurants on the West Coast, it is very clear that is within th
 Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
 
 
-<iframe src="https://peetzie.github.io/test_repot/test.html"
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/fastfood_locations.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
@@ -85,4 +85,16 @@ Likewise a desert state like Nevada - Las Vegas accounts for a visible distribut
 	seamless="seamless"
 	frameborder="0">
 </iframe>
+
+:::tip 
+
+Remember that you can turn layers of in the interactive figure in the top right corner and explore the locations of Fastfood restaurants yourself!
+
+:::
+
+:::caution Outliers
+On the plot you will se a few outliers, as some of the restaurants seems to be located in Europe
+:::
+
+
 
