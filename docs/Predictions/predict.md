@@ -8,6 +8,8 @@ To get a sense of correlation or consistency in the data, we choose to see if we
 
 ** Correlation image **
 
+[ ![](corrHeat.png) ](coorHeat.png)
+
 The correlation heatmap gives some information about what features are correlated. The highest correlation around 0.9 is found between `poor_physical_health_days` and `poor_mental_health_days`. These features are self surveyed from citizens, which means that people could tend to say that a poor physical health day is also a poor mental health day. It seems that the numbers correlate at least.
 Another high correlating factor is the `smoking` together with `Potential_Life_Lost_Rate` aswell as the two previous features, `poor_physical_health_days` and `poor_mental_health_days`. It seems that in counties where a great percentage of the adult population smoke, they also seem to lose potential years of life aswell as their amount of poor mental and physical health days increase. `smoking` could seem to be a great indicator of the unhealthy counties
 
