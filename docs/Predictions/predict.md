@@ -1,8 +1,8 @@
 ---
-sidebar position: 1
+sidebar_position: 1
 ---
 
-## Predicting Obesity
+# Predicting Obesity
 
 To get a sense of correlation or consistency in the data, we choose to see if we could predict wether or not 1/3 of the adults in a state were obese or not. We choose 1/3 since the median of the obesity column was 34 (`health['adult_obesity_% Adults with Obesity'].median() = 34`), leaving us with a somewhat dataset split into two. The new column `is_obese` was then introduced as a response variable and the obesity column omitted. The prediction we did was a simple `Decisiontreeclassifier` to quickly try and get a prediction and therefore a possible tendency in the data. Firstly the correlation heatmap is computed to check for any surprising correlations in the data:
 
