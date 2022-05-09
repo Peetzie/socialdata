@@ -23,14 +23,14 @@ The is seen on the figure below, where a majority of the yellow (index level 9 -
 
 :::tip
 
-This map is interactive, so you can explore it yourself aswell
+This map is interactive, so you can explore it yourself!
 
 :::
 
 
 :::note
 
-There a few *white* dots on the maps, these are counties which have no data and thus are not being able to be showed on the heatmap
+There a few *white* counties on the maps, these are counties without data and thus are not being able to be showed on the heatmap
 
 ::::
 
