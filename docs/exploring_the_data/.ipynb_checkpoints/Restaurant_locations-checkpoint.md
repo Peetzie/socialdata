@@ -25,15 +25,15 @@ Looking further into the top 9 of the fastfood restaurants and then grouping the
 
 | Restaurant chain 	| No. of restaurants 	|
 |---	|---	|
-| Mcdonald's 	| 2105 	|
-| Burger King 	| 1154 	|
-| Taco bell 	| 873 	|
-| Wendy's 	| 734 	|
-| Arby's 	| 520 	|
-| KFC	| 441 	|
-| Subway 	| 404 	|
-| Sonic Drive-In 	| 386 	|
-| Domino's Pizza 	| 359 	|
+| <p className="mcd">McDonald's</p> 	| 2105 	|
+| <p className="bk">Burger King</p> 	| 1154 	|
+| <p className="tb">Taco Bell</p> 	| 873 	|
+| <p className="wd">Wendy's</p> 	| 734 	|
+| <p className="ab">Arby's</p> 	| 520 	|
+| <p className="kfc"> KFC</p>	| 441 	|
+| <p className="subway">Subway</p> 	| 404 	|
+| <p className="sonic">Sonic drive-in</p>	| 386 	|
+| <p className="domino">Domino's Pizza</p> 	| 359 	|
 
 
 The majority of these restaurants serve the same category of fastfood being either, 
@@ -66,6 +66,17 @@ With the data we created plotting the locations of restaurants.
 	frameborder="0">
 </iframe>
 
+The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain: <p className="mcd">McDonald's</p>
+<p className="bk">Burger King</p>
+<p className="tb">Taco Bell</p>
+<p className="wd">Wendy's</p>
+<p className="ab">Arby's</p>
+<p className="kfc"> KFC</p>
+<p className="subway">Subway</p>
+<p className="sonic">Sonic drive-in</p>
+<p className="domino">Domino's Pizza</p>
+<p className="other">Other</p>
+
 :::tip 
 
 The map is interactive! In the top right corner you can play with layers of the 10 most popular fastfood restaurants and explore the locations yourself!
@@ -76,25 +87,12 @@ The map is interactive! In the top right corner you can play with layers of the 
 On the plot you will se a few outliers, as some of the restaurants seems to be located in Europe. These are removed later when a machine learning model is fitted.
 :::
 
-The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
-<font color="#FF6103">
-            McDonald's
-        </font>
-
-* Yellow: Mcdonalds 
-* Orange: Burger king 
-* Red: Taco bell
-* Green: Wendy's 
-* Blue: arby's
-* 
-
 A clear pattern can be seen in the plot; the majority of fastfood restaurants are on the east-side of the Country. 
 
-According to **[[14]](https://worldpopulationreview.com/state-rankings/east-coast-states)** the East Coast states alone account for about 36% of the United States' total population. 
-Thus it is no surprice that the vast majority of fastfood restaurants are located for ease of access to the majority of the population. 
+The East Coast states alone account for about 36% of the United States' total population [[14]](https://worldpopulationreview.com/state-rankings/east-coast-states).
+Which could be a part of the explanation as to why the majority of fastfood restaurants are located in the eastern part of USA. 
 
-Looking at the restaurants on the West Coast, it is very clear that is within the major cities of i.e Washington that the restaurants are distributed. 
-Likewise a desert state like Nevada - Las Vegas accounts for a visible distribution on the State map! 
+Looking at the restaurants on the West Coast, it is mostly within big cities, e.g. Washington, that the restaurants are distributed. Likewise a desert state like Nevada - Las Vegas accounts for a large amount of fast food restaurants. 
 
 
 
