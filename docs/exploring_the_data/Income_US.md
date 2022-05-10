@@ -50,3 +50,7 @@ Refering back to the previous map with the food quality index scores, we have an
 	seamless="seamless"
 	frameborder="0">
 </iframe>
+
+Looking at the distribution of the percentage of obesed citizens across the US and food enviroment index scores there could be some relation. 
+
+Looking at the South east part of the country we see an increased amount of obesity, whilst in the food scoring index having a lower score comparead to the rest of the east coast. 
