@@ -25,15 +25,15 @@ Looking further into the top 9 of the fastfood restaurants and then grouping the
 
 | Restaurant chain 	| No. of restaurants 	|
 |---	|---	|
-| Mcdonald's 	| 2105 	|
-| Burger King 	| 1154 	|
-| Taco bell 	| 873 	|
-| Wendy's 	| 734 	|
-| Arby's 	| 520 	|
-| KFC	| 441 	|
-| Subway 	| 404 	|
-| Sonic Drive-In 	| 386 	|
-| Domino's Pizza 	| 359 	|
+| <p className="mcd">McDonald's</p> 	| 2105 	|
+| <p className="bk">Burger King</p> 	| 1154 	|
+| <p className="tb">Taco Bell</p> 	| 873 	|
+| <p className="wd">Wendy's</p> 	| 734 	|
+| <p className="ab">Arby's</p> 	| 520 	|
+| <p className="kfc"> KFC</p>	| 441 	|
+| <p className="subway">Subway</p> 	| 404 	|
+| <p className="sonic">Sonic drive-in</p>	| 386 	|
+| <p className="domino">Domino's Pizza</p> 	| 359 	|
 
 
 The majority of these restaurants serve the same category of fastfood being either, 
@@ -66,47 +66,16 @@ With the data we created plotting the locations of restaurants.
 	frameborder="0">
 </iframe>
 
-The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
-        
-<main>
-     <p className="mcd">McDonald's</p>
-</main>
-
-<main>
-     <p className="bk">Burger King</p>
-</main>
-
-<main>
-     <p className="tb">Taco Bell</p>
-</main>
-
-<main>
-     <p className="wd">Wendy's</p>
-</main>
-
-<main>
-     <p className="ab">Arby's</p>
-</main>
-
-<main>
-     <p className="kfc"> KFC</p>
-</main>
-
-<main>
-     <p className="subway">Subway</p>
-</main>
-
-<main>
-     <p className="sonic">Sonic drive-in</p>
-</main>
-
-<main>
-     <p className="domino">Domino's Pizza</p>
-</main>
-
-<main>
-     <p className="other">Other</p>
-</main>
+The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain: <p className="mcd">McDonald's</p>
+<p className="bk">Burger King</p>
+<p className="tb">Taco Bell</p>
+<p className="wd">Wendy's</p>
+<p className="ab">Arby's</p>
+<p className="kfc"> KFC</p>
+<p className="subway">Subway</p>
+<p className="sonic">Sonic drive-in</p>
+<p className="domino">Domino's Pizza</p>
+<p className="other">Other</p>
 
 :::tip 
 
