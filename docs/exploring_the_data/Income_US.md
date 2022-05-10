@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # The relation of income 💲 and obesity 
 
-The income of households can play a factor in deciding what food we eat. Fastfood is a cheap and easy source to food, and as seen it is widely spread across the United States. Sources tells us, that the fastfood consumption of adults increases with the family income level. **[[12]](https://www.cdc.gov/nchs/products/databriefs/db322.htm)**.
+The income of households can play a factor in deciding what food we eat. Fastfood is a cheap and easy source to food, and as seen it is widely spread across the United States. Sources tells us, that the fastfood consumption of adults increases with the family income level **[[12]](https://www.cdc.gov/nchs/products/databriefs/db322.htm)**.
 
 From the data the 10 counties with the highest mean income is shown below:
 
@@ -23,7 +23,7 @@ From the data the 10 counties with the highest mean income is shown below:
 |Rhode Island	|Providence County|	129181.00|
 
 Due to missing data, the income variable has been omitted from our prediction model. However to still get a somewhat accurate picture of the income across the US, an interpolated image of the US is plotted. The values we do have is being spread out to other nearby counties with missing data, and is being impacted by all neraby values.
-This gives a somewhat informative visualisation
+This gives a somewhat informative visualisation.
 
 **Average income in the United States of America**
 <iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/income.html"
@@ -65,6 +65,7 @@ This map is interactive. Feel free to look around and see if you can find any pa
 :::
 
 Looking at the distribution of the percentage of obesed citizens across the US and food enviroment index scores there could be some relation. 
+Likewise the map above clearly confirmes **[[3]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4214609/)**, that the majority of the US population is obesed. 
 
 Looking at the South east part of the country we see an increased amount of obesity, whilst in the food scoring index having a lower score comparead to the rest of the east coast. 
 
