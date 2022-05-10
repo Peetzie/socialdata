@@ -4,7 +4,6 @@ sidebar_position: 3
 
 # Model evaluation
 
-Since the model needs some training and test data, we decided to split our test set to be 3 states (this gives us some nicer plots instead of spread out counties across the US). We choose a west-coast (Oregon), midderteranin (Oklahoma) and east-coast (Pennsylvania) state, to see if the prediction differs accros the US. 
 
 Below is seen the three states, and the color represents if the predicted label is the same as the true label.
 
