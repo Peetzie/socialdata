@@ -10,6 +10,19 @@ Below is seen the three test-states; Oklahoma, Oregon and Pennsylvania, and the 
 
 The majority of the test states were predicted correctly, which gives an indication of the model being of somewhat acceptable quality. 
 
+
+**A total overview of the tree states** 
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/predictive_overview.html"
+	sandbox="allow-same-origin allow-scripts"
+	width="100%"
+	height="500"
+	scrolling="yes"
+	seamless="seamless"
+	frameborder="0">
+</iframe>
+
+**Close ups with additional info** 
+
 :::tip 
 
 Hovertool, hover your mouse over the state to get more information!
