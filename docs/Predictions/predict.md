@@ -27,7 +27,6 @@ With the different results from the confusion matrix:
 * Accuracy of the model: 0.5988372093023255
 * Precision of the model: 0.7721518987341772
 * recall of the model: 0.5446428571428571
-* F1-score of the model: 0.6387434554973822
 
 This gives us an idea that predicting obesity is not a total lost cause, as there seem to be some underlying patteren to what makes a county obese. Now let's see if the model can be improved.
 

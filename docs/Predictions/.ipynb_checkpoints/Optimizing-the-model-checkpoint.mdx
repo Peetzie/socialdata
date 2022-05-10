@@ -11,16 +11,15 @@ With the basic `Randomforrestclassifier`we obtained far better results.
 
 [ ![](confusionMatrix_RF.png) ](confusionMatrix_RF.png)
 
-Comparing the two *Confusion matrices* the true postives has gone from 61 to 104, likewise the false positive has been increased from 18 to around 39. 
-As for the true negatives it reduced by from 42 to 21, however that is the cost of having correctly classified far more. 
-Likewise the False negative was reduced from 51 to 8! This overall gives us a better model.
+Comparing the two *Confusion matrices* the true postives has gone from 59 to 104, likewise the false positive has been increased from 17 to 39. 
+As for the true negatives it reduced by from 43 to 21, however that is the cost of having correctly classified far more. 
+Likewise the False negative was reduced from 53 to 8! This overall gives us a better model.
 
 With the different results from the confusion matrix we now obtained the following: 
 
 *  Accuracy of the model: 0.7267441860465116
 * Precision of the model: 0.7272727272727273
 * recall of the model: 0.9285714285714286
-* F1-score of the model: 0.8156862745098039
 
 With an increase in every aspect except for a little worse precision, we are actually happy. 
 Ofcourse it is better to get it right more times whether or not a county is obesed. But likewise with an increased recall we ensure that we get the most counties that can be considered obesed based on features, and thus are able to account for based on said features to improve public health in that county! 
@@ -36,9 +35,8 @@ With the new *hyperparameters* we arrive with the following confusion matrix and
 * Accuracy of the model: 0.7325581395348837
 * Precision of the model: 0.7171052631578947
 * recall of the model: 0.9732142857142857
-* F1-score of the model: 0.8257575757575757
 
-Based upon the measurements above we arrive with a model with less `Precison`. However an increase in the `accuray`, `Recall`and `F1-score`.
+Based upon the measurements above we arrive with a model with less `Precison`. However an increase in the `Accuray` and `Recall`.
 
 Based on that and the confusion matrix numbers we see a model that identifies more true positives, but at the cost of more false positives and thus the increased `Recall`. Likewise we see a minor decrease in true negatives, but a reduction in false negaitves. As this doesn't classify whether one individual has a disease or is life critical for one individual, but rather identifies whether or not a county is more vulnerable of obesity or not it is a good thing to identify to many to try to prohibit this prediction. 
 
