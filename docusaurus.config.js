@@ -77,6 +77,11 @@ const config = {
             label: 'Story line',
           },
           {
+            href: "https://nbviewer.org/github/Peetzie/SocialData_InteractiveMaps/blob/main/notebook.ipbynb",
+            position: 'left',
+            label: 'Explainer Notebook',
+          },
+          {
             href: 'https://github.com/Peetzie/socialdata',
             label: 'GitHub',
             position: 'right',
@@ -96,6 +101,10 @@ const config = {
               {
                 label: 'About us',
                 href: 'https://peetzie.github.io/SocialData_InteractiveMaps/About%20us.html',
+              },
+              {
+                href: "https://nbviewer.org/github/Peetzie/SocialData_InteractiveMaps/blob/main/notebook.ipbynb",
+                label: 'Explainer Notebook',
               },
             ],
           },
