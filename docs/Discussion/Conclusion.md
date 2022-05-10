@@ -34,12 +34,18 @@ There is somewhat linearity with the story, however not completely bound, the si
 | Animated Transitions 	| - 	|
 
 **Visual Structuring** 
+
+
 We chose to have an establishing shot for our web page to have a more fun and inspiring introduction to reading about what we did in the project. We chose a consistent visual platform as the plots themselves differed from barplots, maps and correlation-/confusionmatrices, and therefore the background was more consistent as to create more consitency throughout the plot. It would have been nice with a progress bar, but we valued spending more time on the visualizations than on implementing such. 
 
 **Highlight** 
+
+
 The interactive maps gave the opportunity to zoom and investigate close on fastfood chains and the heat maps, furthermore the three chosen test-states were zoom in on in the model evaluation, this was done to get a better view of the county data. Motion was necessary to be able to use within the webpage, since there was large plots and text in each webpage, however the motion was limited to scrolling. 
 
 **Transition Guidance** 
+
+
 We added emojis to the text as familiar objects, also to make an easier visual connection to the text and make it more fun to read. Furthermore there was clicking buttons to guide the reader back and forth together with the siderbar. 
 
 
