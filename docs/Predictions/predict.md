@@ -13,6 +13,10 @@ To get a sense of correlation or consistency in the data, we choose to see if we
 The correlation heatmap gives some information about what features are correlated. The highest correlation around 0.9 is found between `poor_physical_health_days` and `poor_mental_health_days`. These features are self surveyed from citizens, which means that people could tend to say that a poor physical health day is also a poor mental health day. It seems that the numbers correlate at least.
 Another high correlating factor is the `smoking` together with `Potential_Life_Lost_Rate` aswell as the two previous features, `poor_physical_health_days` and `poor_mental_health_days`. It seems that in counties where a great percentage of the adult population smoke, they also seem to lose potential years of life aswell as their amount of poor mental and physical health days increase. `smoking` could seem to be a great indicator of the unhealthy counties
 
+** Test data and initial results **
+
+Since the model needs some training and test data, we decided to split our test set to be 3 states (this gives us some nicer plots instead of spread out counties across the US). We choose a west-coast (Oregon), midderteranin (Oklahoma) and east-coast (Pennsylvania) state, to see if the prediction differs accros the US. 
+
 The confusion matrix was computed as seen below.
 
 
@@ -21,7 +25,9 @@ The confusion matrix was computed as seen below.
 
 With the different results from the confusion matrix:
 
-* Accuracy of the model: 0.66
-* Precision of the model: 0.7009966777408638
-* recall of the model: 0.7250859106529209
-* F1-score of the model: 0.7128378378378377
+* Accuracy of the model: 0.5988372093023255
+* Precision of the model: 0.7721518987341772
+* recall of the model: 0.5446428571428571
+* F1-score of the model: 0.6387434554973822
+
+This gives us an idea that predicting obesity is not a total lost cause, as there seem to be some underlying patteren to what makes a county obese. However,  we wish to improve on our model.
