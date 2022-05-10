@@ -88,3 +88,16 @@ All the maps had interactivity with both hovertool for counties as well as for t
 
 
 All the topics had headlines and subtopics which was foldable. The visualizations had accompanying article, which was necessary since the plots were not able to stand for themselves, they were not self explanatory. Multimessaging was used in a way, showing barplots and maps. The project had both introductory text as well as summary in the discussion section. 
+
+
+
+
+# Critical thoughts 
+
+* What went well 
+
+The data we found was very useful, both health, fastfood and political data had almost all counties included. The data was useful in terms of visualizing it geographically. 
+
+* What is still missing
+
+The income data was not very useful, and some time was spent on trying to interpolate with the missing counties, that however only worked in sort of pixel terms, which is why we ended up leaving it out of the machine learning model. Furthermore the county dataset was hard to visualize in other ways than in a geo map, since there were thousands of counties, the data could be aggregated as states, which was used in some barplots, but it was not the easiest way to visualize it, however it was easier to compare states in that way where the maps gave more of an overview. Furthermore we had some thoughts in regards to sex and race seggregated data, those thoughts were also discussed in the webpage in 'Discussion'. 
