@@ -68,20 +68,25 @@ With the data we created plotting the locations of restaurants.
 
 :::tip 
 
-Remember that you can turn layers of in the interactive figure in the top right corner and explore the locations of Fastfood restaurants yourself!
+The map is interactive! In the top right corner you can play with layers of the 10 most popular fastfood restaurants and explore the locations yourself!
 
 :::
 
 :::caution Outliers
-On the plot you will se a few outliers, as some of the restaurants seems to be located in Europe
+On the plot you will se a few outliers, as some of the restaurants seems to be located in Europe. These are removed later when a machine learning model is fitted.
 :::
 
 The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
+<font color="#FF6103">
+            McDonald's
+        </font>
+
 * Yellow: Mcdonalds 
 * Orange: Burger king 
 * Red: Taco bell
 * Green: Wendy's 
 * Blue: arby's
+* 
 
 A clear pattern can be seen in the plot; the majority of fastfood restaurants are on the east-side of the Country. 
 

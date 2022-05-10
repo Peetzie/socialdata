@@ -77,6 +77,10 @@ On the plot you will se a few outliers, as some of the restaurants seems to be l
 :::
 
 The map above shows a plot of locations of fastfood restaurants, each color corresponds to a specfic chain.
+<font color="#FF6103">
+            McDonald's
+        </font>
+
 * Yellow: Mcdonalds 
 * Orange: Burger king 
 * Red: Taco bell
