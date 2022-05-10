@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Researching food quality
 
-The food enviroment index, FEI, is a measure of the food environment in regards to both household income :house: and proximity to healthy foods i.e. grocery stores and similar shops and the accesability to those, i.e. is it in a reasonable distance and is it affordable :money_with_wings:.  **[[8]](https://www.countyhealthrankings.org/explore-health-rankings/measures-data-sources/county-health-rankings-model/health-factors/health-behaviors/diet-exercise/food-environment-index)**.
+The food enviroment index, FEI, is a measure of the food environment in regards to both household income :house: and proximity to healthy foods i.e. grocery stores and similar shops and the accesability to those, i.e. is it in a reasonable distance and is it affordable :money_with_wings:.  **[[10]](https://www.countyhealthrankings.org/explore-health-rankings/measures-data-sources/county-health-rankings-model/health-factors/health-behaviors/diet-exercise/food-environment-index)**.
 
 [ ![](stat4.png) ](stat4.png)
 
