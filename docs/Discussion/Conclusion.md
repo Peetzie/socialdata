@@ -101,3 +101,23 @@ The data we found was very useful, both health, fastfood and political data had 
 * What is still missing
 
 The income data was not very useful, and some time was spent on trying to interpolate with the missing counties, that however only worked in sort of pixel terms, which is why we ended up leaving it out of the machine learning model. Furthermore the county dataset was hard to visualize in other ways than in a geo map, since there were thousands of counties, the data could be aggregated as states, which was used in some barplots, but it was not the easiest way to visualize it, however it was easier to compare states in that way where the maps gave more of an overview. Furthermore we had some thoughts in regards to sex and race seggregated data, those thoughts were also discussed in the webpage in 'Discussion'. 
+
+
+
+# Political data 
+
+
+A study from 2018 investigate the voting results from 2008 and 2012 in regards to political orientation and health behaviours, which implied republicans consuming more high fat, processed foods, engaged in less in-depth health information searches and also exercised less than democrates **[[3]](https://pubmed.ncbi.nlm.nih.gov/29940293/)**. To gain an overview of how the political beliefs in USA is distributed it is visualized using a map.
+
+**plot**
+
+:::tip
+
+Hover your mouse over the county to see the political distribution in the state as well as a boolean `is_obese` telling whether or not more than 33% of the county is obese. 
+
+:::
+
+It is a bit hard to compare a geomap with another geomap, therefore it is not directly clear how this is correlated to obesity, the comparison to this can be seen in the correlation matrix under 'Predicting obesity'. To include this parameter in our investigation was actually just a fun idea, but as it turned out to be one of the most important features in the fitted machine learning model this map was more interesting to look into oneself. 
+
+
+
