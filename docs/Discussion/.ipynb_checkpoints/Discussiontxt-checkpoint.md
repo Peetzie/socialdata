@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Discussion
 
+* Conclusion 
+
+To answer the question why and where; if whether or not people in areas with higher number of fastfood restaurants, or with low income, are prone to obesity? 
+
+It seems that the number of fastfood restaurants in the county does in fact affect the possibility of more than one third of the county being obese and income aswell but less importantly. However other features turned out to be more important in predicting a county's obesity; adult **smoking** percentage and **premature death** (in terms of years of potential life lost), percentage **republican voters**, average number of **mentally unhealthy days** and percentage of excessive **drinking**. 
+
+
+
 * Choosing dataset 
 
 The aim of the project was to predict obesity in counties, and there already exists a lot of research within the area of obesity, which helped give some initial ideas about potential relevant data to include. The health data, fastfood restaurant locations and political data was in three different datasets and had to be merged, which however was not that big of an obstacle since all datasets were well defined. 
@@ -15,6 +23,8 @@ Furthermore a study from 2018 look into the voting results from 2008 and 2012 in
 The dataset for income had many counties with no data, therefore an interpolation method was used to try to smooth the known data out for a full dataset however with a larger variance. This feature also turned out to be insignificant in the machine learning model, which could either be because of income not being a relevant factor and otherwise because of a too large variance in the interpolated data resulting in an incorrect picture of the real world. Either way, it ended up not being a relevant factor. 
 
 * Potential Further work 
+
+It could have been relevant to convert the fastfood restaurant data into either fastfood restaurant per area or per 100000 population or similar. 
 
 We wanted to look into sex and race aggregated data aswell, to further investigate if some groups were more susceptible to some of the parameters, e.g. exposure to fastfood restaurants and Food Environment Index. It would have been even better if the data was somewhat more individualized into which types of persons in the counties  e.g. were excessive drinkers, smokers, reported more mentally or physically days or their educational history. However this was not possible with the current dataset, but it could be interesting as potential further work. 
 
