@@ -10,7 +10,7 @@ To get a sense of correlation or consistency in the data, we choose to see if we
 [ ![](corrHeat.png) ](coorHeat.png)
 
 The correlation heatmap gives some information about what features are correlated. The highest correlation around 0.9 is found between `poor_physical_health_days` and `poor_mental_health_days`. These features are self surveyed from citizens, which means that people could tend to say that a poor physical health day is also a poor mental health day. It seems that the numbers correlate at least.
-Another high correlating factor is the `smoking` together with `Potential_Life_Lost_Rate` aswell as the two previous features, `poor_physical_health_days` and `poor_mental_health_days`. It seems that in counties where a great percentage of the adult population smoke, they also seem to lose potential years of life aswell as their amount of poor mental and physical health days increase. `smoking` could seem to be a great indicator of the unhealthy counties
+Another high correlating factor is `smoking` together with `Potential_Life_Lost_Rate` aswell as the two previous features, `poor_physical_health_days` and `poor_mental_health_days`. It seems that in counties where a great percentage of the adult population smoke, they also seem to lose potential years of life aswell as their amount of poor mental and physical health days increase. `smoking` could seem to be a great indicator of the unhealthy counties. Furthermore the `per_gop` attribute is a measure of percentage republican in the respective counties, having a percentage measure for democrates could have been included but would be `per_dem`=1-`per_gop` and therefore trivially highly correlated with the percentage measure for republicans. It could have been an interesting to look into voting percentages in general, and see if that could be correlated to obesity in some way, e.g. in implying if (dis)trust in the government has an influence. 
 
 ** Test data and initial results **
 
@@ -29,4 +29,5 @@ With the different results from the confusion matrix:
 * recall of the model: 0.5446428571428571
 * F1-score of the model: 0.6387434554973822
 
-This gives us an idea that predicting obesity is not a total lost cause, as there seem to be some underlying patteren to what makes a county obese. However,  we wish to improve on our model.
+This gives us an idea that predicting obesity is not a total lost cause, as there seem to be some underlying patteren to what makes a county obese. Now let's see if the model can be improved.
+
