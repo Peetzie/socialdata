@@ -43,7 +43,7 @@ This map is interactive, you can hover over to find mean income in specific area
 
 The green seems to spread especially near big cities, whereas the more red/purpleish colors are in the rural areas of the US. This corresponds with farming areas of with a lower income compared to monopolistic cities🏢. 
 
-Refering back to the FEI plot it looks like in a few spots there could be some small relation of the income and FEI as expected per the definition of FEI. 
+Refering back to the FEI plot it looks like in a few spots there could be some small relation of the income and FEI as expected per the definition of FEI, but could also be a coincidence, as the remainder seem fairly randomly distributed and hard to distinguish significant differences. 
 
 [ ![](comparison.png) ](comparison.png)
 
