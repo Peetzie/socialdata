@@ -8,7 +8,7 @@ sidebar_position: 5
 
 
 
-A study from 2018 investigate the voting results from 2008 and 2012 in regards to political orientation and health behaviours, which implied republicans consuming more high fat, processed foods, engaged in less in-depth health information searches and also exercised less than democrates **[[3]](https://pubmed.ncbi.nlm.nih.gov/29940293/)**. To gain an overview of how the political beliefs in USA is distributed it is visualized using a map.
+A study from 2018 investigate the voting results from 2008 and 2012 in regards to political orientation and health behaviours, which implied republicans consuming more high fat, processed foods, engaged in less in-depth health information searches and also exercised less than democrates **[[13]](https://pubmed.ncbi.nlm.nih.gov/29940293/)**. To gain an overview of how the political beliefs in USA is distributed it is visualized using a map.
 
 <iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/republicancentage.html"
 	sandbox="allow-same-origin allow-scripts"
