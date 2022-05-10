@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 
-# The relation of income 💲 and obesity 
+# The relation of income
 
 The income of households can play a factor in deciding what food we eat. Fastfood is a cheap and easy source to food, and as seen it is widely spread across the United States. Sources tells us, that the fastfood consumption of adults increases with the family income level **[[12]](https://www.cdc.gov/nchs/products/databriefs/db322.htm)**.
 
@@ -43,7 +43,7 @@ This map is interactive, you can hover over to find mean income in specific area
 
 The green seems to spread especially near big cities, whereas the more red/purpleish colors are in the rural areas of the US. This corresponds with farming areas of with a lower income compared to monopolistic cities🏢. 
 
-Refering back to the previous map with the food quality index scores, we have an indication that the lower income can also be connected with a lower food index quality, as this specific area around the east coast hve some spots with a low food quality index score, whilest on the average income map low as well.
+Refering back to the FEI plot it looks like in a few spots there could be some small relation of the income and FEI as expected per the definition of FEI. 
 
 [ ![](comparison.png) ](comparison.png)
 
@@ -69,3 +69,13 @@ Likewise the map above clearly confirmes **[[3]](https://www.ncbi.nlm.nih.gov/pm
 
 Looking at the South east part of the country we see an increased amount of obesity, whilst in the food scoring index having a lower score comparead to the rest of the east coast. 
 
+Comparing this to the plot of income 💲, we see that in the area with green/white coloring in the north west region of the country, we also have some scoring in the lower end of the obesity percentage. 
+Likewise in the south east end of the country we see a high obesity percentage whilst having an average low income. 
+This could indicate som relation between the two features.
+
+
+:::caution
+
+It appears that there perhabs is some sort of relation between obesity percentage, income and FEI, never the less income wont be taken into account in the final predictive model, as the data is interpolated and some of it missing. 
+
+:::
