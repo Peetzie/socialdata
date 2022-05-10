@@ -8,9 +8,9 @@ sidebar_position: 1
 
 The aim of the project was to predict obesity in counties, and there already exists a lot of research within the area of obesity, which helped give some initial ideas about potential relevant data to include. The health data, fastfood restaurant locations and political data was in three different datasets and had to be merged, which however was not that big of an obstacle since all datasets were well defined. 
 
-However some parameters were ambigous in whether or not to include, for example there were arguments both for and against that exposure to fastfood restaurants (in general) was a significant factor in predicting obesity, however an article from 2022 argued that it was a significant factor for USA [[1]](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00713-5)[[2]](https://www.nature.com/articles/s41467-021-27522-y). 
+However some parameters were ambigous in whether or not to include, for example there were arguments both for and against that exposure to fastfood restaurants (in general) was a significant factor in predicting obesity, however an article from 2022 argued that it was a significant factor for USA **[[1]](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-021-00713-5)[[2]](https://www.nature.com/articles/s41467-021-27522-y)**. 
 
-Furthermore a study from 2018 look into the voting results from 2008 and 2012 in regards to political orientation and health behaviours, which implied republicans consuming more high fat, processed foods, engaged in less in-depth health information searches and also exercised less than democrates [[3]](https://pubmed.ncbi.nlm.nih.gov/29940293/). This data could thus be correlated with health data but could still be a relevant parameter for prediction, which it also turned out to be the third most important feature. 
+Furthermore a study from 2018 look into the voting results from 2008 and 2012 in regards to political orientation and health behaviours, which implied republicans consuming more high fat, processed foods, engaged in less in-depth health information searches and also exercised less than democrates **[[3]](https://pubmed.ncbi.nlm.nih.gov/29940293/)**. This data could thus be correlated with health data but could still be a relevant parameter for prediction, which it also turned out to be the third most important feature. 
 
 The dataset for income had many counties with no data, therefore an interpolation method was used to try to smooth the known data out for a full dataset however with a larger variance. This feature also turned out to be insignificant in the machine learning model, which could either be because of income not being a relevant factor and otherwise because of a too large variance in the interpolated data resulting in an incorrect picture of the real world. Either way, it ended up not being a relevant factor. 
 
@@ -20,7 +20,7 @@ We wanted to look into sex and race aggregated data aswell, to further investiga
 
 Another interesting could be looking into voting percentages in the counties, as to see if counties with low or high voting percentages were more susceptible to be obese or not. This could potentially be related to (dis)trust in the government which could also be an interesting parameter to look into. 
 
-As obesity is caused by obtaining more calories than using, therefore obesity can potentially be passed on genetically both by metabolism but also mentally by e.g. having a drive to overeat, [[4]](https://www.cdc.gov/genomics/resources/diseases/obesity/index.htm). Therefore it could be interesting to look at peoples moving patterns around the United States and maybe even globally to get a dynamic view.
+As obesity is caused by obtaining more calories than using, therefore obesity can potentially be passed on genetically both by metabolism but also mentally by e.g. having a drive to overeat, **[[4]](https://www.cdc.gov/genomics/resources/diseases/obesity/index.htm)**. Therefore it could be interesting to look at peoples moving patterns around the United States and maybe even globally to get a dynamic view.
 
 
 * Obstacles setting up the webpage
