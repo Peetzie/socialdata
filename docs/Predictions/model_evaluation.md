@@ -12,7 +12,7 @@ The majority of the test states were predicted correctly, which gives an indicat
 
 
 **A total overview of the tree states** 
-<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/predictive_overview.html"
+<iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/predctive_overview.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
@@ -21,14 +21,13 @@ The majority of the test states were predicted correctly, which gives an indicat
 	frameborder="0">
 </iframe>
 
-**Close ups with additional info** 
+
 
 :::tip 
 
 Hovertool, hover your mouse over the state to get more information!
 
 :::
-
 <iframe src="https://peetzie.github.io/SocialData_InteractiveMaps/Predict_states.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="105%"
