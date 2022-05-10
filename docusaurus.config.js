@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Fastfood and health in the United States of America',
-  tagline: 'Social data and Visualization final exam project',
+  tagline: 'Social Data and Visualization final exam project',
   url: 'https://github.com',
   baseUrl: '/socialdata/',
   onBrokenLinks: 'throw',

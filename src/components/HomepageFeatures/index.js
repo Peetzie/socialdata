@@ -8,9 +8,9 @@ const FeatureList = [
     Svg: require('@site/static/img/imgs/1200px-USA_Flag_Map.svg').default,
     description: (
       <>
-        The aim of this project is to explore how our options of eating and in our surroundings might affect our health. 
-        Are people in areas with a higher density of fastfood restaurents more prone to shortcomings in health? 
-        Likewise how does income affect our choices and health?
+        The aim of this project is to explore factors related to obesity.
+        Are people in areas with a higher number of fastfood restaurents more susceptible to being obese? 
+        And what other causes could be related to obesity.
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/imgs/goal3.svg').default,
     description: (
       <>
-      This project adheres primarily to the 3rd sustainable development goal provided by the United Nations. 
+      This project adheres primarily to the 3rd Sustainable Development Goal provided by the United Nations. 
       </>
     ),
   },
@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/imgs/food.svg').default,
     description: (
       <>
-       The bottom of Marslows hierarychy of needs is food. It is a vitle piece of life. Yet sometimes we as humans makes decision that does not always seem beneficial.
+       Food is vitle; what affects our choises?
       </>
     ),
   },
